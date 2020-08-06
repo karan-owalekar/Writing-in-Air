@@ -4,7 +4,7 @@
 ![writing_in_air](https://user-images.githubusercontent.com/68480967/89462039-76fd6c80-d78a-11ea-924c-9285344df3f6.gif)
 
 
-Full video: https://www.linkedin.com/posts/karan-owalekar_python3-opencv-deeplearning-activity-6663129488974585856-2ipz
+##### Full video: https://www.linkedin.com/posts/karan-owalekar_python3-opencv-deeplearning-activity-6663129488974585856-2ipz
 
 > Here in this program you can draw numbers in the air, and the trained neural network is used to identify what we drew. 
 
